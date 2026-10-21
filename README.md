@@ -7,6 +7,7 @@ I am currently building my foundation in cybersecurity operations, focusing on:
 - Incident response basics
 - Windows and Linux fundamentals
 - Security monitoring
+- [View my lab work and notes](lab-work.md)
 
 ## TryHackMe Learning Path
 I am actively practicing on TryHackMe to improve my hands-on skills in:
